@@ -1,0 +1,13 @@
+{
+  "name": "md-2-html",
+  "version": "1.0.0",
+  "description": "Author: Lucas Pichette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg index.js -o md2html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
